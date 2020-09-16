@@ -6,3 +6,7 @@ haters/
 .build/
 layout.md
 variables.env
+.env
+.yarn/
+dist/
+notes/
